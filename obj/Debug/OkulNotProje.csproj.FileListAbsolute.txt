@@ -1,0 +1,16 @@
+C:\Users\hakan\source\repos\OkulNotProje\bin\Debug\OkulNotProje.exe.config
+C:\Users\hakan\source\repos\OkulNotProje\bin\Debug\OkulNotProje.exe
+C:\Users\hakan\source\repos\OkulNotProje\bin\Debug\OkulNotProje.pdb
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.Form1.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.Properties.Resources.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.exe
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.pdb
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmOgrenciNotlar.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmOgretmen.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmKulup.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmDers.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmOgrenci.resources
+C:\Users\hakan\source\repos\OkulNotProje\obj\Debug\OkulNotProje.FrmSinav.resources
