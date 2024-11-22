@@ -24,28 +24,27 @@
 **Öğrenci - Öğretmen Merkezi**
 Bu program, öğrenciler ve öğretmenler için kullanıcı dostu bir platform sunarak öğrenci bilgilerini ve akademik süreçleri kolayca yönetmelerine olanak tanır. Temel işlevler şunlardır:
 
-Özellikler
+**Özellikler**
 Öğrenci Paneli:
-
 Öğrenciler, öğrenci numaralarına göre kendi sınav notlarını görüntüleyebilir.
-Öğretmen Paneli:
 
+**Öğretmen Paneli:**
 Öğretmenler, öğrencilerin sınav notlarını değiştirebilir ve güncelleyebilir.
 Kulüp bilgilerini (isimler, üyeler) düzenleyebilir ve güncelleyebilir.
 Ders isimlerini ekleyebilir veya düzenleyebilir.
 
-Teknoloji:
+**Teknoloji:**
 Backend: C#
 Database: SQL
 
-Amacı
+**Amacı:**
 Bu uygulama, eğitim kurumlarında öğrencilerin ve öğretmenlerin akademik süreçleri daha etkili bir şekilde yönetmesine yardımcı olmayı hedefler. Basit ve anlaşılır bir arayüz sunarak kullanıcı deneyimini ön planda tutar.
 
-Kullanım
+**Kullanım**
 Öğrenciler:
 Giriş yaparak sınav notlarını görüntüleyebilir.
 
-Öğretmenler:
+**Öğretmenler:**
 İlgili öğrencilerin sınav notlarını güncelleyebilir.
 Kulüp ve ders bilgilerini düzenleyebilir.
 Bu proje, eğitim yönetimi süreçlerini dijitalleştirerek zamandan tasarruf sağlar ve bilgiye erişimi kolaylaştırır.
@@ -56,27 +55,27 @@ Bu proje, eğitim yönetimi süreçlerini dijitalleştirerek zamandan tasarruf s
 **Student - Teacher Management System**
 This program provides a user-friendly platform for students and teachers to easily manage student information and academic processes. Key features include:  
 
-Features
+**Features**
 Student Panel:
 Students can view their exam grades based on their student ID.  
 
-Teacher Panel:
+**Teacher Panel**
 Teachers can edit and update students' exam grades.  
 Manage and update club information (names, members).
 Add or edit course names.  
 
-Technologies 
+**Technologies**
 Backend: C#  
 Database: SQL  
 
-Purpose
+**Purpose**
 This application aims to help educational institutions manage academic processes more effectively for students and teachers. It prioritizes user experience by offering a simple and intuitive interface.  
 
-Usage
+**Usage**
 Students:
 Log in to view their exam grades.  
 
-Teachers: 
+**Teachers**
 Update grades for specific students.  
 Manage club and course information.  
 
