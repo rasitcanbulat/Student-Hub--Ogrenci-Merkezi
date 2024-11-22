@@ -53,9 +53,7 @@ Bu proje, eğitim yönetimi süreçlerini dijitalleştirerek zamandan tasarruf s
 > **Not:** Bu uygulama, temel bir eğitim yönetim sistemi olarak tasarlanmış olup, genişletilebilir bir yapıya sahiptir. Geri bildirimlere açık ve geliştirilmeye uygundur.
 
 # ENG
-
-# **Student - Teacher Management System**
-
+**Student - Teacher Management System**
 This program provides a user-friendly platform for students and teachers to easily manage student information and academic processes. Key features include:  
 
 Features
